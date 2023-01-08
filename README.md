@@ -1,5 +1,9 @@
 # Unity_CC_Material_Lightning
 
+Demo vidéo du projet réalisé:
+
+[<img src="https://i.ytimg.com/vi/xdMsw0tW-vk/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=xdMsw0tW-vk "Demo vidéo")
+
 ## Objectif global du projet
 
 Suite au changement de projet, nous allons partir des projets de base fournis par Unity Learn pour découvrir les matériaux et les lumières.
