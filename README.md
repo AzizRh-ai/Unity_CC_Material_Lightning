@@ -2,7 +2,7 @@
 
 Demo vidéo du projet réalisé:
 
-[<img src="https://i.ytimg.com/vi/xdMsw0tW-vk/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=xdMsw0tW-vk "Demo vidéo")
+[<img src="https://i.ytimg.com/vi/kac4M9Gd7gg/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=kac4M9Gd7gg "Demo vidéo")
 
 ## Objectif global du projet
 
